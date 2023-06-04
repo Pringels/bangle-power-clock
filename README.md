@@ -1,2 +1,2 @@
-# bangle-power-watch
-A powerful watch for bangle.js 2
+# bangle-power-clock
+A powerful clocl for bangle.js 2
